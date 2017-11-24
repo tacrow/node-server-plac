@@ -1,0 +1,25 @@
+{
+  "name": "server-plac",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacrow/node-server-plac.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "tacrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tacrow/node-server-plac/issues"
+  },
+  "homepage": "https://github.com/tacrow/node-server-plac#readme",
+  "devDependencies": {
+    "ejs": "^2.5.7"
+  }
+}
